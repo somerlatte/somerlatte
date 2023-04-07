@@ -3,7 +3,7 @@
 
 
 #  🙋‍♀️ About Me:
-🔭 I’m currently working on DBA<br>👯 I’m looking to collaborate on Data Science projects<br>🌱 I’m currently learning Java and JavaScript<br>⚡ Fun fact: I love volleyball and tennis<br>📫 Reach me at ranysomer@gmail.com
+🔭 I’m currently working as a DBA<br>👯 I’m looking to collaborate on Data Science projects<br>🌱 I’m currently learning Java and JavaScript<br>⚡ Fun fact: I love volleyball and tennis<br>📫 Reach me at ranysomer@gmail.com
 
 
 ## 🌐 Socials:
