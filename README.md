@@ -1,7 +1,3 @@
-
-![Black Technology LinkedIn Banner]("C:\Users\Lorrayne Somerlatte\Downloads\Black & White Modern Minimalist Data Analyst LinkedIn Banner.png")
-
-
 #  🙋‍♀️ About Me:
 🔭 I’m currently working as a Data Engineer<br>👯 I’m looking to collaborate on Data projects<br>🌱 I’m currently learning Cybersecurity<br>⚡ Fun fact: I love volleyball and tennis!<br>📫 Reach me at ranysomer@gmail.com
 
