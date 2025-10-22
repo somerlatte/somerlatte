@@ -1,5 +1,5 @@
 #  🙋‍♀️ About Me:
-🔭 I’m currently working as a Data Engineer<br>👯 I’m looking to collaborate on Data projects<br>🌱 I’m currently learning Cybersecurity<br>⚡ Fun fact: I love volleyball and tennis!<br>📫 Reach me at ranysomer@gmail.com
+🔭 I’m currently working as a Analytics Engineer<br>👯 I’m looking to collaborate on Data projects<br>🌱 I’m currently learning Cybersecurity<br>⚡ Fun fact: I love watching volleyball and tennis, also love cars and off-road bikes!<br>📫 Reach me at ranysomer@gmail.com
 
 
 ## 🌐 Socials:
